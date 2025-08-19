@@ -1,0 +1,2 @@
+# This file ensures that the storage directory is tracked by git
+# Remove this file when you add actual storage utilities to this directory
