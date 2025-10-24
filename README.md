@@ -183,21 +183,6 @@ The template includes NextAuth.js with a basic credentials provider:
 - **Configuration**: `src/app/api/auth/[...nextauth]/route.ts`
 - **Protected routes**: Use `validateAuth()` in handlers
 
-## 📊 Sample Data
-
-The project service includes realistic IT project data:
-
-- Employee Management System
-- IT Asset Tracking
-- Help Desk Portal
-- Network Monitoring Dashboard
-
-Each project includes:
-- Status tracking (planning, in-progress, completed, on-hold)
-- Technology stack
-- Priority levels
-- Start/end dates
-
 ## 🔧 Extending the Template
 
 ### Adding a New Entity
